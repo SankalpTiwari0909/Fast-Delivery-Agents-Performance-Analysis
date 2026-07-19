@@ -1,20 +1,64 @@
-Fast Delivery Performance Analysis - Executive Summary
+📌 Business Problem:
+Quick-commerce companies need to understand the factors influencing delivery performance and customer satisfaction to improve operational efficiency.
 
-Objective 
-Analyzed 5,000+ fast delivery orders to assess delivery time, ratings, order accuracy, and customer service across major platforms (Zepto, Blinkit, Swiggy Instamart, JioMart).
+🎯 Objective:
+Analyze delivery performance across different delivery platforms
+Evaluate customer satisfaction trends
+Study delivery time variations
+Understand the impact of discounts
+Compare performance across cities
+Generate business recommendations
 
-Key Insights
-- Delivery Time: Ranged from 10 to 60 minutes, with an average of 35 minutes.  
-- Customer Ratings: Averaged 3.0/5, with Zepto and Blinkit scoring higher.  
-- Order Accuracy: Varied from 78% to 92%, impacting customer satisfaction.  
-- Customer Feedback: 22% of orders received negative feedback, correlating with long delivery times.  
+🛠 Tech Stack:
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Jupyter Notebook
 
-Approach & Tools* 
-- Data Preprocessing & Cleaning: Ensured 100% data completeness using Pandas, NumPy.  
-- EDA & Visualization: Identified trends using Seaborn, Matplotlib.  
-- Correlation Analysis: Found that lower delivery time = higher ratings.  
+📊 Analysis Performed:
+✔ Data Cleaning
 
-  
-Reduced analysis time by 40% through automation.  
-Improved delivery efficiency by 35% via data-driven insights.  
-Lowered negative feedback by 22% with performance optimizations.  
+✔ Missing Value Analysis
+
+✔ Duplicate Check
+
+✔ Descriptive Statistics
+
+✔ Order Distribution
+
+✔ Delivery Partner Comparison
+
+✔ Customer Rating Analysis
+
+✔ Customer Service Analysis
+
+✔ Delivery Time Analysis
+
+✔ Correlation Heatmap
+
+✔ Discount Impact Analysis
+
+✔ Price Range Analysis
+
+✔ Location-wise Analysis
+
+✔ Order Type Analysis
+
+🔑 Key Insights:
+Zepto and Blinkit fulfilled the highest number of orders.
+Swiggy Instamart achieved the highest average customer ratings.
+Customer Service Rating showed a strong positive correlation with Overall Rating.
+Delivery time had a slight negative impact on customer ratings.
+Metro cities generally recorded faster deliveries than Tier-2/Tier-3 locations.
+Discounts improved customer ratings in some cases, but the impact varied by platform.
+Premium-priced orders generally received higher ratings.
+Platform performance differed significantly across locations and order categories.
+
+💡 Business Recommendations
+Improve delivery efficiency in lower-performing cities.
+Prioritize customer service improvements to increase satisfaction.
+Optimize discount strategies based on platform performance.
+Reduce delivery time variability for consistently better user experience.
+Use platform-specific insights to improve operational planning.
