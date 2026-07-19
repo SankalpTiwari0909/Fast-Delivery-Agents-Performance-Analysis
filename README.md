@@ -1,7 +1,9 @@
 📌 Business Problem:
+
 Quick-commerce companies need to understand the factors influencing delivery performance and customer satisfaction to improve operational efficiency.
 
 🎯 Objective:
+
 Analyze delivery performance across different delivery platforms
 Evaluate customer satisfaction trends
 Study delivery time variations
@@ -10,6 +12,7 @@ Compare performance across cities
 Generate business recommendations
 
 🛠 Tech Stack:
+
 Python
 Pandas
 NumPy
@@ -18,6 +21,7 @@ Seaborn
 Jupyter Notebook
 
 📊 Analysis Performed:
+
 ✔ Data Cleaning
 
 ✔ Missing Value Analysis
@@ -47,6 +51,7 @@ Jupyter Notebook
 ✔ Order Type Analysis
 
 🔑 Key Insights:
+
 Zepto and Blinkit fulfilled the highest number of orders.
 Swiggy Instamart achieved the highest average customer ratings.
 Customer Service Rating showed a strong positive correlation with Overall Rating.
@@ -56,7 +61,8 @@ Discounts improved customer ratings in some cases, but the impact varied by plat
 Premium-priced orders generally received higher ratings.
 Platform performance differed significantly across locations and order categories.
 
-💡 Business Recommendations
+💡 Business Recommendations:
+
 Improve delivery efficiency in lower-performing cities.
 Prioritize customer service improvements to increase satisfaction.
 Optimize discount strategies based on platform performance.
